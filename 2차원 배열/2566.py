@@ -10,4 +10,4 @@ for i in range(9):
             x = j
             y = i
 print(ans)
-print(y, x)
+print(y+1, x+1)
