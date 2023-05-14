@@ -1,5 +1,5 @@
 # cbei
 
-asdfdhggfhfdgjgjdfgj:asdfasdgfg
+재밌는 코딩!
 
-집에 가고 싶다.
+오늘 하루도 화이팅!
